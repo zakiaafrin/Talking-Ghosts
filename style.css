@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#scoreBox {
+    background-color: black;
+    padding: 5px;
+}
+
+#container {
+    height: 100vh;
+    background-image: url(./img/background.jpg);
+    background-size: 100vw 100vh;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(236, 65, 65);
+}
+
+.div1 {
+    margin-top: 13vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div2 {
+    margin-top: 20vh;
+    display: flex;
+    justify-content: space-around;
+}
