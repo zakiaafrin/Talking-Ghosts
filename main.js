@@ -87,7 +87,7 @@ function girl() {
     document.getElementById("g4Sound").play();
     document.getElementById("g4").animate([
         { transform: 'translate(0%, 0%) scale(1)' },
-        { transform: 'translate(-30%, -30%) scale(2)' },
+        { transform: 'translate(-30%, -30%) scale(3)' },
         { transform: 'translate(0%, 0%) scale(1)' }], {
         duration: 2500,
         easing: 'linear' }); 
